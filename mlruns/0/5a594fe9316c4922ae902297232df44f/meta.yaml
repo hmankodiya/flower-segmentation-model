@@ -1,0 +1,15 @@
+artifact_uri: file:///media/harsh/DATA/PYTHON/Pytorch/FelloshipAI/mlruns/0/5a594fe9316c4922ae902297232df44f/artifacts
+end_time: 1671181210757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a594fe9316c4922ae902297232df44f
+run_name: trial-run
+run_uuid: 5a594fe9316c4922ae902297232df44f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671178437082
+status: 3
+tags: []
+user_id: harsh
